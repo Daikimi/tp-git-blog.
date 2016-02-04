@@ -7,6 +7,7 @@ title = "Les élections américaines"
 
 # Donald Trump et sa fameuse perruque d'or
 Donald Trump, essayerai de conquérir le continent américain armée de sa chevelure d'or , qualifié par les plus grand spécialiste de "physiquement impossible". 
+<<<<<<< HEAD
 WWMxxxxxMWWWMMxMMWWWMMxxxMMMMMMxxxxMMWMMMxMWWWMMxxxxxMMMMMxxxnxxxMMMMMMMMMxxMWWWMWWMxxxMWWWMMMWWMMMMMMMMMMMMxxxxxxMMMWWWMMxxMWW@@@@@WWWMMMxxxxMMWW@@WW
 WWMxxxxxMWWWMMxMMWWWMMxxxMMMMMMxxxxMMWMMxxMMWWWMxxxxxxMMMMxxnnxxxMMMMMMMMMxxMWWWMWWMxxxMWWMMMMWWMMMxMxnnnnnnnxxnxxxxMWWWMMxxMMW@@WWWWWMMxxxxxxxMWWW@WW
 WMMxxnxxMWWWMMxMMWWWMMxxxMMMMMMxxxxMMWWMxxMWWWWMMxxxxxMMMMxxxnxxxMMMMMMMMMxxMWWWMWWMxxxxWWMMMMMMMxxnnz###++**i*+#nnxxMWWMMMxMMWW@@WWWWMMxxxxxxxMMWW@WW
@@ -106,4 +107,6 @@ WWWW@##@@@@@@###############@WMW+`.iM#@WW@@@@@@@@####@@@##@@@@@WW@@@@@@@@@WWz`  
 @WWW@@@@@@@@@@################@@@@W###@W@@@@@@@@@###@@@@@@@@@@@@@@@@@@@@@WWWW*`  ``  ````......*#z#*#nzi..,`..`*@@WWMMMMMMMMxxzzzznxxMMMMMMMxxxnzzzzzz
 @@@@@@@@@@@@@@@@##################@@@@@W@@@@@@@@@##@@@@@@@W@@@@@@@@@@@@@@WWWWn``  ```````..,...##z#+znz*.`..`.`,W@WWWMMMMMMMMMxxnznnxxMMMMMMxxxnzzzzzz
 @@@@@@@@@@@@@@@@####################@WW@@@@@@@@@@##@@@@@WWWWWWWWW@@@@@@WWWWWWM``  `` `````.,...###z###++.``.`.``n@@WWMMMMMMMMMMMxnnnxMMMMMMMxxxnzzzzzz
+=======
+>>>>>>> 047d70fb35936031c048646a4da27b93588516f4
 
